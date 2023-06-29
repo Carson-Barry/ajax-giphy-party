@@ -1,0 +1,48 @@
+img {
+    height:300px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 15px;
+}
+body {
+    background-color: darkblue;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+}
+button {
+    border-radius: 5px;
+    height: 40px;
+    font-size: 20px;
+    margin: 3px;
+}
+input {
+    height: 40px;
+    font-size: 20px;
+    background-color: darkgray;
+    border: none;
+    border-radius: 5px;
+}
+h1 {
+    font-size: 40px;
+}
+
+#search {
+    background-color: blue;
+    border: none;
+    color: white;
+}
+
+#search:hover {
+    background-color: darkblue;
+}
+
+#destroy {
+    background-color: red;
+    border: none;
+    color: white;
+}
+
+#destroy:hover {
+    background-color: brown;
+}
